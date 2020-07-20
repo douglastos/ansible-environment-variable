@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/590/0*BH2EDG0Slfbp9L5C.png)
+<center>![](https://miro.medium.com/max/590/0*BH2EDG0Slfbp9L5C.png)</center>
 
 # ADD ENVIRONMENT GLOBAL FOR LINUX/ANSIBLE
 
