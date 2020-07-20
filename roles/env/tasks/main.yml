@@ -1,0 +1,4 @@
+- name: add enviroment
+  copy:  src="export.sh"  dest="/etc/profile.d/export.sh"
+
+

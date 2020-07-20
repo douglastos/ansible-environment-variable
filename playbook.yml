@@ -1,0 +1,4 @@
+- name: default playbook - Starting deploy
+  hosts: all
+  roles:
+    - env
