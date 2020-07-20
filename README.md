@@ -1,4 +1,3 @@
-![](https://miro.medium.com/max/590/0*BH2EDG0Slfbp9L5C.png)
 ![](https://churrops.files.wordpress.com/2017/06/ansible-logo.png?w=736)
 
 # ADD ENVIRONMENT GLOBAL FOR LINUX/ANSIBLE
