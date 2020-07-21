@@ -1,6 +1,6 @@
 ![](https://churrops.files.wordpress.com/2017/06/ansible-logo.png?w=736)
 
-# ADD ENVIRONMENT GLOBAL FOR LINUX/ANSIBLE
+# ADD GLOBAL ENVIRONMENT VARIABLE FOR LINUX WITH ANSIBLE
 
 - settings hosts
 - add host and playbook
