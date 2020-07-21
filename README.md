@@ -13,7 +13,7 @@ There is no need to restart the server, variable is added automatically, but whe
 
 - don't forget to configure the export.sh file with your desired variable.
 
-command to perform test (example):
+ad-hoc command to test (example):
 
 ~~~bash
 $ ansible portal -m shell -a 'echo $USR'
